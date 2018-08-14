@@ -11,13 +11,13 @@ class App extends Component {
   render () {
     return (
       <div>
-        <StyledComponents />
-        <Radium />
         <Aphrodite />
         <Emotion />
         <Fela />
-        <Styletron />
         <JSS />
+        <Radium />
+        <StyledComponents />
+        <Styletron />
       </div>
     )
   }

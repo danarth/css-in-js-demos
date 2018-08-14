@@ -5,11 +5,11 @@ const styles = {
   title: {
     fontSize: '1.5em',
     textAlign: 'center',
-    color: 'papayawhip'
+    color: 'palevioletred'
   },
   wrapper: {
     padding: '4em',
-    background: 'palevioletred'
+    background: 'papayawhip'
   }
 }
 

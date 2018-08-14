@@ -6,13 +6,13 @@ const engine = new Client()
 
 const Wrapper = styled('section', {
   padding: '4em',
-  background: 'palevioletred'
+  background: 'papayawhip'
 })
 
 const Title = styled('h1', {
   fontSize: '1.5em',
   textAlign: 'center',
-  color: 'papayawhip'
+  color: 'palevioletred'
 })
 
 const MyComponent = props => (

@@ -6,13 +6,13 @@ This React app provides a basic comparison of the uses of some popular CSS-in-JS
 
 The following libraries are compared:
 
-- [styled-components/styled-components](https://github.com/styled-components/styled-components)
-- [FormidableLabs/radium](https://github.com/FormidableLabs/radium)
-- [Khan/aphrodite](https://github.com/Khan/aphrodite)
-- [emotion-js/emotion](https://github.com/emotion-js/emotion)
-- [rofrischmann/fela](https://github.com/rofrischmann/fela)
-- [styletron/styletron](https://github.com/styletron/styletron)
-- [cssinjs/jss](https://github.com/cssinjs/jss)
+- [aphrodite](https://github.com/Khan/aphrodite)
+- [emotion](https://github.com/emotion-js/emotion)
+- [fela](https://github.com/rofrischmann/fela)
+- [jss](https://github.com/cssinjs/jss)
+- [radium](https://github.com/FormidableLabs/radium)
+- [styled-components](https://github.com/styled-components/styled-components)
+- [styletron](https://github.com/styletron/styletron)
 
 ## How to run
 

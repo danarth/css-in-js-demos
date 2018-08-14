@@ -8,11 +8,11 @@ const styles = {
   title: {
     fontSize: '1.5em',
     textAlign: 'center',
-    color: 'palevioletred'
+    color: 'papayawhip'
   },
   wrapper: {
     padding: '4em',
-    background: 'papayawhip'
+    background: 'palevioletred'
   }
 }
 
